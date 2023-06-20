@@ -674,7 +674,7 @@ MonoBehaviour:
   SimulateOnAwake: 1
   SimulateInEditor: 0
   SimulateInPlayMode: 0
-  DropCount: 200
+  DropCount: 400
   _lastDropCount: 200
   Loop: 1
   DropsUsed: 0
@@ -700,7 +700,7 @@ MonoBehaviour:
   OnSpawnerEmitingParticle:
     m_PersistentCalls:
       m_Calls: []
-  TheIdentifier: 58512
+  TheIdentifier: 70354
   isRefractingMaterial: 0
 --- !u!1 &3631586059967861920
 GameObject:
